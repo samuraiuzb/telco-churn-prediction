@@ -5,7 +5,7 @@ This project implements a machine learning model to predict customer churn for a
 ## Project Structure
 
 ```
-FINAL_PROJECT/
+FINAL_EXAM/
 ├── bot/
 │   └── bot.py                          # Telegram bot implementation
 ├── data/
@@ -58,12 +58,7 @@ git push origin main
 
 ## Installation & Setup
 
-### 1. Clone and Navigate to Project Directory
-```bash
-cd FINAL_PROJECT/
-```
-
-### 2. Install Required Dependencies
+###  Install Required Dependencies
 ```bash
 pip install streamlit pandas numpy scikit-learn python-telegram-bot jupyter
 ```
