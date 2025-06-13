@@ -10,8 +10,6 @@ FINAL_EXAM/
 │   └── bot.py                          # Telegram bot implementation
 ├── data/
 │   └── data.csv                       # Original datasetgit rm --cached data/cleaned_telco_data.csv
-git commit -m "Remove large CSV file from repo"
-git push origin main
 ├── models/
 │   ├── best_churn_model.pkl           # Trained Random Forest model
 │   ├── cat_columns.pkl                # Categorical feature columns
